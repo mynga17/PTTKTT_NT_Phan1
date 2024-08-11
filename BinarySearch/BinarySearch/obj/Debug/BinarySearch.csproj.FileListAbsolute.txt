@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\PTTKTT_BTL1\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\DELL\source\repos\PTTKTT_BTL1\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\DELL\source\repos\PTTKTT_BTL1\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\DELL\source\repos\PTTKTT_BTL1\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PTTKTT_BTL1\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PTTKTT_BTL1\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\DELL\source\repos\PTTKTT_BTL1\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb

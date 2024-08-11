@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\PTTKTT_BTL1\Multi_BigInterger\Multi_BigInterger\bin\Debug\Multi_BigInterger.exe.config
+C:\Users\DELL\source\repos\PTTKTT_BTL1\Multi_BigInterger\Multi_BigInterger\bin\Debug\Multi_BigInterger.exe
+C:\Users\DELL\source\repos\PTTKTT_BTL1\Multi_BigInterger\Multi_BigInterger\bin\Debug\Multi_BigInterger.pdb
+C:\Users\DELL\source\repos\PTTKTT_BTL1\Multi_BigInterger\Multi_BigInterger\obj\Debug\Multi_BigInterger.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PTTKTT_BTL1\Multi_BigInterger\Multi_BigInterger\obj\Debug\Multi_BigInterger.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PTTKTT_BTL1\Multi_BigInterger\Multi_BigInterger\obj\Debug\Multi_BigInterger.exe
+C:\Users\DELL\source\repos\PTTKTT_BTL1\Multi_BigInterger\Multi_BigInterger\obj\Debug\Multi_BigInterger.pdb
